@@ -7,8 +7,7 @@ The developer-first platform for reusable open-source hardware IP. We're democra
 ## 🚀 Quick Start
 
 - **ASIC Template**: [vyges-ip-template](https://github.com/vyges/vyges-ip-template)
-- **FPGA Template**: [vyges-ip-fpga-template](https://github.com/vyges/vyges-ip-fpga-template)
-- **CLI Tool**: [vyges-cli](https://github.com/vyges/vyges-cli)
+- **CLI Tool**: [vyges-cli](https://github.com/vyges/vyges-cli) - *coming soon*
 - **Metadata Spec**: [vyges-metadata-spec](https://github.com/vyges/vyges-metadata-spec)
 
 ## 🛠️ Core Tools
